@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eLearning/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/eLearning/static/js/main.9ee84975.chunk.js",
+    "main.js.map": "/eLearning/static/js/main.9ee84975.chunk.js.map",
+    "runtime-main.js": "/eLearning/static/js/runtime-main.964ea738.js",
+    "runtime-main.js.map": "/eLearning/static/js/runtime-main.964ea738.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/eLearning/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c54b7e3f.chunk.js": "/eLearning/static/js/2.c54b7e3f.chunk.js",
+    "static/js/2.c54b7e3f.chunk.js.map": "/eLearning/static/js/2.c54b7e3f.chunk.js.map",
+    "static/js/3.c7c2f02f.chunk.js": "/eLearning/static/js/3.c7c2f02f.chunk.js",
+    "static/js/3.c7c2f02f.chunk.js.map": "/eLearning/static/js/3.c7c2f02f.chunk.js.map",
+    "index.html": "/eLearning/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/eLearning/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/eLearning/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c54b7e3f.chunk.js.LICENSE.txt": "/eLearning/static/js/2.c54b7e3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.964ea738.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c54b7e3f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.9ee84975.chunk.js"
+  ]
+}
